@@ -1,0 +1,45 @@
+.body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 14px;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+}
+
+.foto {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.img {
+  width: 100px;
+}
+
+.h3 {
+  color: green;
+}
+
+.center-image {
+  display: block;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.link {
+  font-size: 18px;
+  color: rgb(148,0,211);
+}
+
+
+
